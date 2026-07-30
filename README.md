@@ -1,8 +1,8 @@
 # Abt (About) Me Website
 
 This is the source code of the website used in:
-[https://abtme.szantoksz.xyz](https://abtme.szantoksz.xyz)
-[https://aboutme.szantoksz.xyz](https://aboutme.szantoksz.xyz)
+- [https://abtme.dusko.boo](https://abtme.dusko.boo)
+- [https://aboutme.dusko.boo](https://aboutme.dusko.boo)
 
 # Why is it here?
 This project is on GitHub, due to it being easier for me to manage updates on my servers, and for anyone who likes my about me site, to look at the source code, and clone it/make something similar.
